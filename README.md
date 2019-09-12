@@ -1,11 +1,8 @@
 ## NOTICE
 
-OpenVideoCall is a demo of [Agora](http://www.agora.io) Video SDK - Android
+DecentralizedChat 
 
 
-## Bug reports
-
-* https://github.com/AgoraLab/OpenVideoCall_Android/issues
 
 
 ## Build Instructions
@@ -17,9 +14,7 @@ Java 7 SDK/Android SDK/NDK tools need to be ready on you host machine, if you do
 * https://developer.android.com/ndk/index.html
 
 
-`Jack and Jill` is deprecated by Google, so we do not enable it by default in current project
 
-* https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html
 
 We use `Gradle` to build, if you want know more about `Gradle`, follow instructions here:
 
